@@ -26,7 +26,7 @@ In Ip_Adresses.txt, It must contain only TWO columns per line. One of the IP and
 
 EX : 
 "
-google.com  Google_Computer
+google.com  Google_Computer  
 192.168.0.10 Test_PC
 192.168.0.20 Canteen_PC
 10.17.84.94 Joao_LAPTOP
