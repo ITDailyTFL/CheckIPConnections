@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
+    
     //path to the file where we store all the ip addresses.
     private static String ipAdressFileText ="C:\\CheckIpConnections\\Ip_Adresses.txt";
 
